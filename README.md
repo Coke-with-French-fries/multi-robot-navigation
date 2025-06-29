@@ -1,10 +1,10 @@
 # multi-robot-navigation
 
 ## Project Code Structure:
-├── d3qn_navigation - Reinforcement learning navigation node directory
-│   ├── CMakeLists.txt - Build file
-│   ├── include - Header files directory
-│   │   └── d3qn_navigation - Header files directory
+├── d3qn_navigation - Reinforcement learning navigation node directory  
+│   ├── CMakeLists.txt - Build file  
+│   ├── include - Header files directory  
+│   │   └── d3qn_navigation - Header files directory  
 │   ├── launch - ROS launch files
 │   │   └── d3qn_navigation_main.launch - Launch file for reinforcement learning navigation node
 │   ├── package.xml - ROS package data file
