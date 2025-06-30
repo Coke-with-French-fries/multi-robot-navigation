@@ -1,7 +1,11 @@
 # multi-robot-navigation
 
-## Control block diagram
+## Leader-follower control block diagram
 ![Control block diagram](https://github.com/user-attachments/assets/14bcbd9c-f9bf-49d7-aa1f-50539cb0a5d9)
+
+## HRL framework for leader robot navigation
+![HRL-EN](https://github.com/user-attachments/assets/af2e9ade-a1d1-4aa3-b1b7-816e694c7b97)
+
 
 ## Project Code Structure:
 ├── d3qn_navigation - Reinforcement learning navigation node directory  
