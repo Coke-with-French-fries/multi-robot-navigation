@@ -6,6 +6,9 @@
 ## HRL framework for leader robot navigation
 ![HRL-EN](https://github.com/user-attachments/assets/af2e9ade-a1d1-4aa3-b1b7-816e694c7b97)
 
+## Communication framework between nodes
+![node-comm-EN](https://github.com/user-attachments/assets/26e84c6b-0d19-4d81-823a-952e72a3dc56)
+
 
 ## Project Code Structure:
 ├── d3qn_navigation - Reinforcement learning navigation node directory  
