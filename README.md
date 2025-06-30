@@ -1,4 +1,5 @@
 # multi-robot-navigation
+![Control block diagram](https://github.com/user-attachments/assets/14bcbd9c-f9bf-49d7-aa1f-50539cb0a5d9)
 
 ## Project Code Structure:
 ├── d3qn_navigation - Reinforcement learning navigation node directory  
